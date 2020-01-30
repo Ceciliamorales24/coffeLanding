@@ -1,0 +1,25 @@
+
+.parallax-effect {
+    width: 100%;
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 56px;
+    margin: 0;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}

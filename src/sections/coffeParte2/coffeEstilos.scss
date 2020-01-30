@@ -1,0 +1,36 @@
+.mainParte2 {
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column; //me ubica los dos div h1 y p por un lado y las cups por el otro abajo de uno//
+    // height: 663px;
+    padding-bottom: 130px;
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    padding:0 15%;
+}
+
+.parte2Tazas {
+    display: flex;
+    justify-content: space-around;
+    padding: 70px;
+    max-width: 970px;
+
+    img {
+        max-width: 80%;
+        padding: 0px 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+
+// .img {
+//     // width: 261px;
+//     // height: 261px;
+//     max-width: 80%;
+//     padding: 0px 30px;
+//     display: flex;
+// }
